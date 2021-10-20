@@ -1,5 +1,5 @@
 import React from 'react';
-import CartIcon from '../Cart/CartIcon';
+import CartIcon from '../components/Meals/Cart/CartIcon';
 import classes from './HeaderCartButton.module.css';
 
 function HeaderCartButton(props) {
